@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \bayuwibowo\bs\AutoloadExample::widget(); ?>```
+<?= \bayuwibowo\bs\Thumbnail::widget(); ?>```
